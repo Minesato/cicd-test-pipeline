@@ -1,0 +1,8 @@
+_schema-version: '3.1'
+ID: cicd-test-app
+version: 1.0.0
+
+modules:
+  - name: cicd-test-app
+    type: html5
+    path: .
