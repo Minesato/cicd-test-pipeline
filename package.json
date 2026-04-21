@@ -2,7 +2,7 @@
   "name": "cicd-test-app",
   "version": "1.0.0",
   "scripts": {
-    "test": "echo 'テスト実行中...' && exit 0",
+    "test": "echo 'テスト実行中...' && exit 1",
     "build": "echo 'ビルド実行中...' && mkdir -p dist"
   }
 }
